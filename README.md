@@ -6,6 +6,8 @@
 
 Like an intern that never asks for standup.
 
+<img width="3448" height="1996" alt="CleanShot 2026-04-06 at 20 00 54@2x" src="https://github.com/user-attachments/assets/7a3bca7b-6a6b-4046-955a-2aeff246261a" />
+
 > [!CAUTION]
 > Early project and 100% AI generated. Expect rough edges and fast iteration.
 
